@@ -1,0 +1,16 @@
+{
+  "name": "twin-blooming-oem-intelligence",
+  "version": "7.0.0",
+  "private": true,
+  "type": "module",
+  "description": "TWIN BLOOMING OEM market intelligence with local Node server and Netlify production integration",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check public/app.js && node --check netlify/functions/feed.mjs && node --check netlify/functions/patents.mjs && node --check netlify/functions/monitor-news.mjs && node --check netlify/functions/monitor-patents.mjs && node --check local-server.mjs",
+    "dev": "node local-server.mjs",
+    "dev:check": "node --check local-server.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}

@@ -1,0 +1,18 @@
+﻿이름,위도,경도,유형,위치,공개근거구분,주력사업,공개 근거,공식사이트
+메르세데스-벤츠,48.7758,9.1829,oem,"슈투트가르트, 독일",confirmed,"프리미엄 승용차·전기차, MBUX 디지털 콕핏",https://www.lg.co.kr/media/release/24347,https://www.mercedes-benz.com/
+캐딜락,42.3314,-83.0458,oem,"디트로이트, 미국",confirmed,"럭셔리 전기차·SUV, 디지털 콕핏",https://www.lg.co.kr/media/release/21545,https://www.cadillac.com/
+제네시스,37.5665,126.978,oem,"서울, 대한민국",confirmed,럭셔리 전동화 SUV 및 프리미엄 디지털 공간,https://news.samsungdisplay.com/34515,https://www.genesis.com/worldwide/en/main.html
+페라리,44.5293,10.8648,oem,"마라넬로, 이탈리아",confirmed,럭셔리 스포츠카·전기 스포츠카·고급 HMI,https://news.samsungdisplay.com/34472,https://www.ferrari.com/
+MINI,48.1374,11.5755,oem,"뮌헨, 독일",confirmed,"프리미엄 소형차·전기차, 원형 인터페이스",https://news.samsungdisplay.com/34215,https://www.mini.com/
+니오,31.2304,121.4737,oem,"상하이, 중국",confirmed,"프리미엄 스마트 전기차, 디지털 실내 경험",https://www.boe.com/en/solution/AutomotiveDisplay,https://www.nio.com/
+샤오펑,23.1291,113.2644,oem,"광저우, 중국",confirmed,스마트 전기차·ADAS·디지털 콕핏,https://www.boe.com/en/solution/AutomotiveDisplay,https://www.xpeng.com/
+리오토,39.9042,116.4074,oem,"베이징, 중국",confirmed,"프리미엄 패밀리 SUV·전동화, 동승자 디스플레이",https://www.boe.com/en/solution/AutomotiveDisplay,https://www.lixiang.com/
+포르쉐,48.824,9.153,oem,"슈투트가르트, 독일",candidate,럭셔리·고성능 스포츠카/전기차,https://www.porsche.com/,https://www.porsche.com/
+BMW,48.175,11.559,oem,"뮌헨, 독일",candidate,프리미엄 승용차·전기차·BMW Panoramic iDrive,https://www.bmw.com/,https://www.bmw.com/
+루시드,37.5297,-122.0402,oem,"뉴어크, 캘리포니아, 미국",candidate,럭셔리 전기차·고효율 EV 플랫폼,https://lucidmotors.com/,https://lucidmotors.com/
+폴스타,57.7089,11.9746,oem,"예테보리, 스웨덴",candidate,디자인 중심 프리미엄 전기차·디지털 UX,https://www.polestar.com/,https://www.polestar.com/
+롤스로이스,50.8597,-0.751,oem,"굿우드, 영국",candidate,초고급 럭셔리 차량·맞춤형 실내경험,https://www.rolls-roycemotorcars.com/,https://www.rolls-roycemotorcars.com/
+지커,29.8683,121.544,oem,"닝보, 중국",candidate,프리미엄 전기차·스마트 모빌리티,https://www.zeekrglobal.com/,https://www.zeekrglobal.com/
+삼성디스플레이,36.789,127.003,competitor,"아산, 대한민국",competitor,"차량용 OLED, Tandem OLED, 변형 폼팩터, 프리미엄 패널",https://global.samsungdisplay.com/31483?type=main,https://global.samsungdisplay.com/
+BOE(징둥팡),39.913,116.398,competitor,"베이징, 중국",competitor,"차량용 f-OLED, 슬라이더블, 15.05형 폴더블 OLED 등",https://www.ces.tech/ces-innovation-awards/2025/automotive-slidable-oled-display/,https://www.boe.com/en/
+LG디스플레이,37.751,126.766,benchmark,"파주, 대한민국",benchmark,"차량용 P-OLED, 33형 슬라이더블, 51형 P2P 디스플레이",https://www.lgdisplay.com/kor/product/automotive-display/oled,https://www.lgdisplay.com/eng/home
